@@ -1,0 +1,1 @@
+this is a clone file which is made by a clone command if a git
